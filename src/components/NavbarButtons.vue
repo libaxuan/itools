@@ -4,10 +4,10 @@
       <c-button
         circle
         variant="text"
-        href="https://github.com/CorentinTh/it-tools"
+        href="https://github.com/libaxuan/itools"
         target="_blank"
         rel="noopener noreferrer"
-        aria-label="IT-Tools' GitHub repository"
+        aria-label="itools' GitHub repository"
       >
         <n-icon size="25" :component="BrandGithub" />
       </c-button>
@@ -15,7 +15,7 @@
     Github repository
   </n-tooltip>
 
-  <n-tooltip trigger="hover">
+  <!--  <n-tooltip trigger="hover">
     <template #trigger>
       <c-button
         circle
@@ -29,7 +29,7 @@
       </c-button>
     </template>
     IT Tools' Twitter account
-  </n-tooltip>
+  </n-tooltip>-->
 
   <n-tooltip trigger="hover">
     <template #trigger>
